@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://ceuu150fmggvr"]
+
+[ext_resource type="PackedScene" uid="uid://d0ypm0v45pwdv" path="res://art/player.glb" id="1_4flbx"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_onrkg"]
+radius = 0.8
+
+[node name="player" type="CharacterBody3D" unique_id=1375703023]
+
+[node name="pivot" type="Node3D" parent="." unique_id=1830954287]
+
+[node name="character" parent="pivot" unique_id=991902507 instance=ExtResource("1_4flbx")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1748174512]
+shape = SubResource("SphereShape3D_onrkg")
