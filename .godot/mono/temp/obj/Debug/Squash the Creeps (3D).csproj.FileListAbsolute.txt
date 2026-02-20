@@ -1,0 +1,18 @@
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).deps.json
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).runtimeconfig.json
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).dll
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).pdb
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).csproj.AssemblyReference.cache
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).AssemblyInfoInputs.cache
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).AssemblyInfo.cs
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).csproj.CoreCompileInputs.cache
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).sourcelink.json
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash t.495F87DD.Up2Date
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).dll
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/refint/Squash the Creeps (3D).dll
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).pdb
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).genruntimeconfig.cache
+/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/.godot/mono/temp/obj/Debug/ref/Squash the Creeps (3D).dll

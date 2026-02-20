@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM8Q2HLQ9Xs=",
+  "success": true,
+  "projectFilePath": "/Users/lidia/Documents/jesusColegio/Squash_the_Creeps/Squash the Creeps (3D).csproj",
+  "expectedPackageFiles": [
+    "/Users/lidia/.nuget/packages/godot.sourcegenerators/4.6.1/godot.sourcegenerators.4.6.1.nupkg.sha512",
+    "/Users/lidia/.nuget/packages/godotsharp/4.6.1/godotsharp.4.6.1.nupkg.sha512",
+    "/Users/lidia/.nuget/packages/godotsharpeditor/4.6.1/godotsharpeditor.4.6.1.nupkg.sha512",
+    "/Users/lidia/.nuget/packages/microsoft.netcore.app.ref/8.0.24/microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "/Users/lidia/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.24/microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
