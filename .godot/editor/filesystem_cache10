@@ -1,8 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1771550180
+::res://::1772737242
 icon.webp::CompressedTexture2D::27118964165343846::1744386698::1771528323::1::::<><><>0<>0<>d1498e266395186d04e973f787f3596d<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
-main.tscn::PackedScene::1940543232055977835::1771528719::0::1::::<><><>0<>0<><>::
-player.tscn::PackedScene::5096146682080455107::1771531113::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb
+Main.cs::CSharpScript::5594252529778647795::1772737242::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::1940543232055977835::1772737251::0::1::::<><><>0<>0<><>::uid://clx5r0ig2ltr4::::res://Main.cs<>uid://defdm2qdva75q::::res://mob.tscn<>uid://ceuu150fmggvr::::res://Player.tscn
+Mob.cs::CSharpScript::1105404756913043843::1772134266::0::1::::<><><>0<>0<><>::
+mob.tscn::PackedScene::7450544337918621628::1772135535::0::1::::<><><>0<>0<><>::uid://bicorb7we351t::::res://art/mob.glb<>uid://p0p4cg20qdw2::::res://Mob.cs
+Player.cs::CSharpScript::7045328331942874104::1771554568::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Player.tscn::PackedScene::5096146682080455107::1771554584::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://c7m2r7x8js113::::res://Player.cs
 ::res://art/::1771528325
 body.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::

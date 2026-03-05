@@ -10,6 +10,9 @@ public partial class Player : CharacterBody3D
 	[Export]
 	public int FallAcceleration { get; set; } = 75;
 	
+	[Export]
+	public int JumpImpulse { get; set; } = 20;
+	
 	private Vector3 _targetVelocity = Vector3.Zero;
 
 	public override void _PhysicsProcess(double delta)
@@ -48,6 +51,12 @@ public partial class Player : CharacterBody3D
 		}
 		
 		Velocity = _targetVelocity;
+		
+		if (IsOnFloor() && Input.IsActionPressed("jump"))
+		{
+			_targetVelocity.Y =  JumpImpulse;
+		}
+		
 		MoveAndSlide(); // smooths collisions.
 	}
 }
