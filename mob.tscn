@@ -4,9 +4,9 @@
 [ext_resource type="Script" uid="uid://p0p4cg20qdw2" path="res://Mob.cs" id="1_nokgg"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_nokgg"]
-size = Vector3(1.4931641, 1.2910156, 2.0597534)
+size = Vector3(1.6777344, 1.1414795, 2.0597534)
 
-[node name="mob" type="CharacterBody3D" unique_id=6470633]
+[node name="mob" type="CharacterBody3D" unique_id=6470633 groups=["moB"]]
 collision_layer = 2
 collision_mask = 2
 script = ExtResource("1_nokgg")
@@ -16,7 +16,7 @@ script = ExtResource("1_nokgg")
 [node name="character" parent="pivot" unique_id=1510827115 instance=ExtResource("1_dy6sc")]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1315653043]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.14550781, 0.1413269)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.36175537, 0.1413269)
 shape = SubResource("BoxShape3D_nokgg")
 
 [node name="VisibleOnScreenNotifier3D" type="VisibleOnScreenNotifier3D" parent="." unique_id=691126558]

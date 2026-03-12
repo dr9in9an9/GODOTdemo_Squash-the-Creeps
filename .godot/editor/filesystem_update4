@@ -1,7 +1,7 @@
-res://Mob.cs
 res://Player.cs
-res://main.tscn
+res://Mob.cs
 res://Main.cs
-res://Main.tscn
 res://player.tscn
+res://main.tscn
 res://mob.tscn
+res://ScoreLabel.cs

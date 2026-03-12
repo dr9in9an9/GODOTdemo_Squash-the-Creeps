@@ -27,5 +27,12 @@ public partial class Main : Node
 		mobster.Initialize(mobSpawnLocation.Position, playerPosition);
 		
 		AddChild(mobster);
+		
+		mobster.Squashed += GetNode<ScoreLabel>("UserInterface/ScoreLabel").OnMobSquashed;
+	}
+	
+	private void OnPlayerHit()
+	{
+		GetNode<Timer>("mobTimer").Stop();
 	}
 }
