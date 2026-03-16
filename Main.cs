@@ -6,6 +6,7 @@ public partial class Main : Node
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
+		GetNode<Control>("UserInterface/Retry").Hide();
 	}
 
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -34,5 +35,14 @@ public partial class Main : Node
 	private void OnPlayerHit()
 	{
 		GetNode<Timer>("mobTimer").Stop();
+		GetNode<Control>("UserInterface/Retry").Show();
+	}
+	
+	public override void _UnhandledInput(InputEvent @event)
+	{
+		if (@event.IsActionPressed("ui_accept") && GetNode<Control>("UserInterface/Retry").Visible)
+		{
+			GetTree().ReloadCurrentScene();
+		}
 	}
 }
